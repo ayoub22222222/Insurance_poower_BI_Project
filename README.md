@@ -1,6 +1,7 @@
 # 🏥 Insurance Claims Analysis Dashboard - Power BI
 
-This project presents a professional analysis of insurance claims using Power BI. It focuses on analyzing  
+This project presents a professional analysis of insurance claims using Power BI.
+
 ---
 
 ## 🔍 Overview
