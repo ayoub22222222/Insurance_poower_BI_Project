@@ -54,9 +54,12 @@ The dataset represents historical insurance claims including information on:
 
 ## 📌 Key Insights
 
-- 🚨 High fraud rates observed in [specific region]
-- 💰 Policy type X accounts for the largest claim amounts
-- 📉 Claims tend to peak during Q3 across all regions
+- 💰 **Travel Insurance** generates the **highest premium revenue**, totaling **2.5M**, followed by Health and Auto.
+- 🧾 **Claim payouts are highest among adult customers (8.8M)**, while **young adults contribute the least (1.7M)**.
+- 📊 A **majority of policies (58.13%) are active**, suggesting good customer engagement and retention.
+- ❌ **Rejected claims represent the highest count (~4.4K)**, which may indicate stricter policy terms or challenges in the claims process.
+- 🔍 **Travel insurance also leads in total claim payouts (250.8M)** — but has a large portion rejected (107.3M), potentially revealing a mismatch between customer expectations and policy terms.
+
 
 ---
 
