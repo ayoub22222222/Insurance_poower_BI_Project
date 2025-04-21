@@ -1,7 +1,6 @@
 # 🏥 Insurance Claims Analysis Dashboard - Power BI
 
-This project presents a professional analysis of insurance claims using Power BI. It focuses on identifying patterns, detecting anomalies, and delivering actionable insights through a well-structured dashboard.
-
+This project presents a professional analysis of insurance claims using Power BI. It focuses on analyzing  
 ---
 
 ## 🔍 Overview
@@ -10,16 +9,26 @@ The dataset represents historical insurance claims including information on:
 - Policy holders
 - Types of insurance
 - Claim amounts
-- Fraud indicators
-- Demographics and locations
+- PolicyNumber
+- CustomerID
+- Gender
+- Age
+- PolicyType
+- PolicyStartDate
+- PolicyEndDate
+- PremiumAmount
+- ClaimNumber
+- ClaimDate
+- ClaimStatus
 
 ---
 
 ## 🎯 Objectives
 
 - Analyze key trends in insurance claims.
-- Detect potential fraud patterns.
-- Visualize the financial impact per region and policy type.
+- Analyze Claim amount by Age group.
+- Visualize the premium amount by Policy type.
+- Visualize the number of active / inactive user
 - Provide executive-level summaries through intuitive dashboards.
 
 ---
@@ -27,9 +36,7 @@ The dataset represents historical insurance claims including information on:
 ## 📊 Tools & Technologies
 
 - Power BI (for dashboard & reporting)
-- Python (for data cleaning and preprocessing)
-- Pandas, NumPy (optional libraries used)
-- Jupyter Notebook
+- SQL server (load data from the sql server)
 - Git & GitHub
 
 ---
@@ -41,7 +48,7 @@ The dataset represents historical insurance claims including information on:
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Screenshot](visuals/dashboard_preview.png)
+![Dashboard Screenshot](visuals/screen_shot.png)
 
 ---
 
@@ -55,7 +62,7 @@ The dataset represents historical insurance claims including information on:
 
 ## 📄 Report
 
-👉 [Click here to view the full report (PDF)](reports/Insurance_Claims_Report.pdf)
+👉 [Click here to view the full report (PDF)](reports/insurance_project.pdf)
 
 ---
 
