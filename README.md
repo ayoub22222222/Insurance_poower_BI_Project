@@ -41,7 +41,7 @@ The dataset represents historical insurance claims including information on:
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Screenshot](visuals/dashboard_preview.png)
+![Dashboard Screenshot](visuals/giphy.mp4)
 
 ---
 
